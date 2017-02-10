@@ -97,6 +97,10 @@ options:
     url: typeclasses/show.html
     menu_type: typeclasses
 
+  - title: Symbols
+    url: typeclasses/symbols.html
+    menu_type: typeclasses
+
   ###########################
   # Data Types Menu Options #
   ###########################

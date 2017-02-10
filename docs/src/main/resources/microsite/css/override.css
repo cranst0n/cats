@@ -1,3 +1,7 @@
 .technologies {
 	display: none;
 }
+
+#type-class-table tbody {
+  border-top: 2px solid #aaa;
+}
